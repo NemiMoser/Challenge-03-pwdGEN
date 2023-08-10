@@ -6,13 +6,13 @@
 *Challenge Screenshot*
 
 ## Table of Contents:
-- [Introduction] (#introduction)
-- [Features] (#features)
-- [Technologies Used] (#technologies-used)
-- [Usage] (#usage)
-- [Live Demo] (#live-demo)
-- [Contact] (#contact)
-- [License] (#license)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Usage](#usage)
+- [Live Demo](#live-demo)
+- [Contact](#contact)
+- [License](#license)
 
 ## Introduction:
 This is a password-generating website. The website is designed to generate passwords with the user's choice of criteria.
@@ -20,7 +20,7 @@ This is a password-generating website. The website is designed to generate passw
 ## Features:
 -Prompts: The site prompts the user to select from uppercase, lowercase, numeric and special characters, as well as the desired password's length.
 
-##Technologies Used:
+## Technologies Used:
 - HTML
 - CSS
 - JavaScript

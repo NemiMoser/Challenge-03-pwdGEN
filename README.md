@@ -3,32 +3,33 @@
 (https://github.com/NemiMoser/Challenge-03-pwdGEN/assets/135074383/0206d154-e2d7-4abd-a145-24aee3ef5e06)
 Challenge Screenshot
 
-Table of Contents
-Introduction
-Features
-Technologies Used
-Usage
-Live Demo
-Contact
-License
-Introduction
-This is a password generating website. The website is designed to generate passwords with the user's choice of criteria.
+Table of Contents:
+-Introduction
+-Features
+-Technologies Used
+-Usage
+-Live Demo
+-Contact
+-License
 
-Features
-Prompts: the site prompts the user to select from uppercase, lowercase, numeric and special characters as well as the length of the desired password.
+Introduction:
+This is a password-generating website. The website is designed to generate passwords with the user's choice of criteria.
 
-Technologies Used
-HTML
-CSS
-JavaScript
+Features:
+Prompts- the site prompts the user to select from uppercase, lowercase, numeric and special characters and the desired password's length.
 
-Usage
+Technologies Used:
+-HTML
+-CSS
+-JavaScript
+
+Usage:
 To view the password generator, open the index.html file in your web browser.
 
-Live Demo
+Live Demo:
 You can view the live demo of the portfolio at https://nemimoser.github.io/Challenge-03-pwdGEN/.
 
-Contact
+Contact:
 Please reach out to me with any questions:
 
 Email: nohemi.moser@gmail.com
